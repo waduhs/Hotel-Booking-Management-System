@@ -3,11 +3,19 @@ My groupmates and I created this simple C++ project in our first year second sem
 
 Here's the updated version with changed emojis:
 Contributors:
+
 👨‍💼 Acuzar, Yodie
+
 👨‍💼 Capili, Yuri
+
 👨‍💼 Dajac, John Victor
+
 👨‍💼 Gatica, Jaren
+
 👩‍💼 Laon, Adeline Grace
+
 👨‍💼 Molina, Daniel John
+
 👨‍💼 Orcales, Danzig
+
 👨‍💼 Palileo, Gerald
